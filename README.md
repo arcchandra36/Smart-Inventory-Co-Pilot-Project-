@@ -2,6 +2,14 @@
 
 A comprehensive inventory management system built with Python and Streamlit that provides intelligent insights, predictions, and recommendations for retail inventory management.
 
+## 🎮 Demo This App Here!
+
+Experience the full power of the Smart Inventory Co-Pilot without any installation! This live demo showcases all six main features: real-time dashboard analytics, intelligent product analysis, supplier performance scoring, automated procurement recommendations, seasonal demand forecasting, and ML-powered predictions. Navigate through different pages using the sidebar menu, interact with charts and filters, and see how machine learning drives smarter inventory decisions. Perfect for exploring the complete functionality before diving into the code.
+
+**🔗 Live Application:** https://smart-inventory-app.streamlit.app/
+
+---
+
 ## 🚀 Features
 
 ### Core Functionality
@@ -64,10 +72,7 @@ SMART INVENTORY CO-PILOT/
 │   └── app_backup_final.py    # Final backup version
 ├── data/
 │   └── retail_store_inventory_with_vendors.csv  # Sample inventory data
-├── models/
-│   ├── quantity_model.pkl     # Trained ML model for quantity prediction
-│   ├── reorder_model.pkl      # Trained ML model for reorder points
-│   └── scaler.pkl            # StandardScaler for feature normalization
+├── models/                    # ML models (excluded from Git due to size)
 ├── backups/                   # Timestamped backup files
 ├── create_backup.ps1          # PowerShell backup script
 ├── recover_app.ps1            # PowerShell recovery script
@@ -152,6 +157,8 @@ The project includes sample retail inventory data with:
 - **Random Forest Regressor**: For stockout risk prediction
 - **StandardScaler**: For feature normalization
 - **Custom Algorithms**: For demand forecasting and reorder point calculation
+
+*Note: ML model files are automatically generated when the app first runs (excluded from Git due to file size limits).*
 
 ## 🎨 User Interface
 
