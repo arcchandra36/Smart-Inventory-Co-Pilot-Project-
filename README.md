@@ -39,8 +39,8 @@ A comprehensive inventory management system built with Python and Streamlit that
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/arcchandra36/smart-inventory-co-pilot.git
-   cd smart-inventory-co-pilot
+   git clone https://github.com/arcchandra36/Smart-Inventory-Co-Pilot-Project-.git
+   cd Smart-Inventory-Co-Pilot-Project-
    ```
 
 2. **Install required packages:**
