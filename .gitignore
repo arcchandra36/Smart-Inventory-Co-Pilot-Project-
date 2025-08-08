@@ -39,8 +39,9 @@ Thumbs.db
 # Streamlit
 .streamlit/
 
-# Machine Learning Models (keep the ones you want to share)
-# *.pkl
+# Machine Learning Models (too large for GitHub)
+*.pkl
+models/*.pkl
 
 # Logs
 *.log
