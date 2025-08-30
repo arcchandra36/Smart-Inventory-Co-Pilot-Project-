@@ -1,4 +1,4 @@
-# 📦 Smart Inventory Co-Pilot
+# 📦 StockSense AI Smart Inventory Co-Pilot
 
 A comprehensive inventory management system built with Python and Streamlit that provides intelligent insights, predictions, and recommendations for retail inventory management.
 
